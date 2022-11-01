@@ -9,8 +9,6 @@ export default function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>The date right now is: {date}</h2>
-      <h2>The date right now is: {date1}</h2>
-      <h2>The date right now is: {date2}</h2>
     </div>
   );
 }
